@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
+title: "WILD Laws의 종합적인 능력"
 description: "A ton of text to test readability."
 tags: [sample post, readability, test, intro]
 ---
