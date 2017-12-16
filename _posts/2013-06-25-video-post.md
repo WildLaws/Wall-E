@@ -15,6 +15,6 @@ author: Abhishek
 기말고사 발표 영상입니다.
 
 {% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"></iframe>
+<iframe width="1521" height="864" src="https://www.youtube.com/embed/c_IGs0bamdo" frameborder="0">
 {% endhighlight %}
 
