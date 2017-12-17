@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: OpenSource Programming!
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2014-12-24
 tags: [sample post]
@@ -10,7 +10,16 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+자세한 과정등은 깃허브에 나와있으니 참고 바랍니다.<home link 가 깃허브로 통해요! 5Magician reporitory를 참고해 주세요!> 이곳에 올라와 있는 내용은 프로토 타입 5차의 코드입니다!
+
+프로그래밍의 관점에서 제가 생각했던 것은 가능한 효율적으로 작동할수 있는 프로그램이었습니다.
+
+
+
+
+
+
+<!--Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
 
@@ -85,7 +94,7 @@ Non Pygments code example
     <div id="awesome">
         <p>This is great isn't it?</p>
     </div>
-
+-->
 ## Buttons
 
 Make any link standout more when applying the `.btn` class.
