@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "OPENSOURCES Video!"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+title: "Opensource Sw Video!"
+description: "오픈소스 SW중에 만들었던 동영상들의 모음입니다"
 tags: [sample post, video]
-author: Abhishek
+author: WildLaws
 ---
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/IUHzT0eqRAE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
