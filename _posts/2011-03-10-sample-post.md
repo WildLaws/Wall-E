@@ -115,13 +115,10 @@ Non Pygments code example
         <p>This is great isn't it?</p>
     </div>
 -->
-## Buttons
+# Buttons
 
-Make any link standout more when applying the `.btn` class.
+평가해 주세요!
 
-```html
-<a href="/" class="ui positive button">Success Button</a>
-```
 
 <a href="/" class="ui primary button">Primary Button</a>
 <a href="/" class="ui secondary button">Secondary Button</a>

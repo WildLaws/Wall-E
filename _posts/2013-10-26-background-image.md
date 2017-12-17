@@ -9,6 +9,10 @@ image:
 time: 15 December 2017
 ---
 
+<img src="/assets/img/b1.jpg">
+<img src="/assets/img/b2.jpg">
+<img src="/assets/img/b3.jpg">
+<img src="/assets/img/b4.jpg">
 
 
 <!--Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.

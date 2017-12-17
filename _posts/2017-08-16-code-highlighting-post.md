@@ -11,3 +11,7 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
+##디자인에 관해서 저희 팀이 추구한 이념은 Simple 이었습니다.
+<img src="/assets/img/d1.jpg">
+<img src="/assets/img/d2.jpg">
+<img src="/assets/img/d3.jpg">
