@@ -12,6 +12,7 @@ image:
 ---
 
 <h1>디자인에 관해서 저희 팀이 추구한 이념은 Simple 이었습니다.</h1>
+<br>
 
 <img src="/assets/img/d1.jpg">
 
