@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Opensource Sw Video!"
-description: "오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드립니다.\n\n\n"
+description: "오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드립니다."
 tags: [sample post, video]
 author: WildLaws
 ---
 
-
+오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드겟습니다.\n\n\n
 
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/IUHzT0eqRAE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
