@@ -4,6 +4,7 @@ title: "Opensource Sw Video!"
 description: "오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드립니다."
 tags: [sample post, video]
 author: WildLaws
+time: 17 December 2017
 ---
 
 오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드겠습니다.      1.                                          
