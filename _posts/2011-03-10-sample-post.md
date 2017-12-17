@@ -8,6 +8,7 @@ image:
   feature: abstract-3.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+time: 16 December 2017
 ---
 
 자세한 과정등은 깃허브에 나와있으니 참고 바랍니다.<home link 가 깃허브로 통해요! 5Magician reporitory를 참고해 주세요!> 이곳에 올라와 있는 내용은 프로토 타입 5차의 코드입니다!
