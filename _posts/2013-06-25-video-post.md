@@ -6,7 +6,8 @@ tags: [sample post, video]
 author: WildLaws
 ---
 
-오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드겟습니다.\n\n\n
+오픈소스 SW중에 만들었던 동영상들의 모음입니다 보시고 평가 부탁드겠습니다.\n\n\n
+
 
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/IUHzT0eqRAE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -22,11 +23,11 @@ author: WildLaws
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/wihQAUkqTWE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 	
-	2.Lego's 홍보영상입니다.
+	3.Lego's 홍보영상입니다.
 
 
 
 {% highlight html %}
-<iframe width="1521" height="864" src="https://www.youtube.com/embed/c_IGs0bamdo" frameborder="0">
+<!--<iframe width="1521" height="864" src="https://www.youtube.com/embed/c_IGs0bamdo" frameborder="0">-->
 {% endhighlight %}
 
