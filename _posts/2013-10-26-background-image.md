@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-12-15 블로그를 개설하며
+title: BM 모델에 관하여
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 author: WildLaws
@@ -8,7 +8,7 @@ image:
   background: triangular.png
 time: 15 December 2017
 ---
-일단 이 블로그는 제 다양한 일정등이 업데이트 될 예정이나 현재 linkedin 등을 함께 쓰고 있기 때문에 아직 자세한 사항은 올라와 있지 않은 상황입니다. 현재는 OpenSource SW수업 때 진행하였던 수업 위주의 업데이트 이나 추후에 다양한 내용이 올라올 예정입니다.
+
 
 
 <!--Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
