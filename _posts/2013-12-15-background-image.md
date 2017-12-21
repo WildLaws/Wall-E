@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BM 모델에 관하여
+title: Lego BM 모델에 관하여
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 author: WildLaws
